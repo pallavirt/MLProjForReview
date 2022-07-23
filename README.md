@@ -63,5 +63,8 @@ Accuracy value achieved with AutoML is slightly better than that achieved with H
 ## Future work
 **What are some areas of improvement for future experiments? Why might these improvements help the model?**
 
-To try out different metrics other than Accuracy and see if that brings any further improvement.
+To try out different metrics other than Accuracy and see if that brings any further improvement.![image](https://user-images.githubusercontent.com/109726862/180614709-eb735ae5-a497-41b3-9883-e9fa395021ed.png)
+
+![image](https://user-images.githubusercontent.com/109726862/180614832-0ba71bc3-866c-4352-8f31-dbca9ff19749.png)![image](https://user-images.githubusercontent.com/109726862/180614729-92fb70ba-7b6f-477b-8366-e3be3473deee.png)
+![image](https://user-images.githubusercontent.com/109726862/180614866-da0177d4-98c0-4a2d-a0c7-b0fa290db645.png)
 
