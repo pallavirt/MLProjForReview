@@ -53,10 +53,10 @@ AutoML pipeline included the following activities:
 
 Accuracy value achieved with AutoML is slightly better than that achieved with Hyperdrive. Additionally, AutoML reduces the efforts required for any manual adjustments of hyperparameters.
 
-**Metrics for AutoML:**
+## **Metrics for AutoML:**
 ![image](https://user-images.githubusercontent.com/109726862/180614866-da0177d4-98c0-4a2d-a0c7-b0fa290db645.png)
 
-**Metrics for Hyperdrive:**
+## **Metrics for Hyperdrive:**
 ![image](https://user-images.githubusercontent.com/109726862/180614729-92fb70ba-7b6f-477b-8366-e3be3473deee.png)
  
 
