@@ -51,6 +51,7 @@ As shown in capstoneautoml.ipynb file, the best run was registered as a model in
 ## Further Enhancements:
 
 The data preprocessing can be enhanced to include the appropriate features.
+
 Regarding HyperDrive experiment,
 2.a. more runs can be added.
 2.b. Some ensemble method can be used instead of logistic regression to see if that improves the model performance further.
