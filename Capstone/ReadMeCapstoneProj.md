@@ -54,8 +54,8 @@ As shown in capstoneautoml.ipynb file, the best run was registered as a model in
 
 2. Regarding HyperDrive experiment,
 
-  2.a. more runs can be added.
-  2.b. Some ensemble method can be used instead of logistic regression to see if that improves the model performance further.
+  a. More runs can be added.
+  b. Some ensemble method can be used instead of logistic regression to see if that improves the model performance further.
   
 
 ## Screen Recording
