@@ -45,6 +45,15 @@ The best run found with AutoML was registered as a model and deployed as a servi
 ![image](https://user-images.githubusercontent.com/109726862/184795463-5c11be3b-ab69-4ff8-bb52-f3a388e452b4.png)
 ![image](https://user-images.githubusercontent.com/109726862/184795484-ef7257f1-2ad2-403a-b718-d5f602267fd4.png)
 
+As shown in capstoneautoml.ipynb file, the best run was registered as a model in the workspace and deployed as a service. The notebook also contains a sample JSON input and call to the deployed service using requests.post method. It has captured the returned response as well. 
+
+
+Further Enhancements:
+
+The data preprocessing can be enhanced to include the appropriate features.
+Regarding HyperDrive experiment,
+2.a. more runs can be added.
+2.b. Some ensemble method can be used instead of logistic regression to see if that improves the model performance further.
 ## Screen Recording
 https://youtu.be/s9-WOQFPgVs
 
